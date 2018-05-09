@@ -1,0 +1,4 @@
+mysite/settings.py
+*.pyc
+*.swp
+*.swo
